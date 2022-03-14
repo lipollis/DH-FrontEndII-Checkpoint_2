@@ -1,4 +1,4 @@
-<div align="right"> <img src="https://github.com/lipollis/Imagens-Git/blob/main/banner_assinatura.svg" /> </div>
+<div align="right"> <img src="https://github.com/lipollis/Imagens-Git/blob/main/sun.png" /> </div>
 
 <h1 align="center"> Projeto to-do list </h1>
 <h2 align="center"> CHECKPOINT Front End II - CTD:Digital House </h2>
@@ -9,7 +9,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/>
   <br>
   <br>
-  <a href="https://lipollis.github.io/DH-FrontEndII-Checkpoint_2/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://lipollis.github.io/DH-FrontEndII-Checkpoint_2/">
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /></a>
 </div>
 <br>
 <br>
